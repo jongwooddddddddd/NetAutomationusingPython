@@ -4,5 +4,8 @@ Bayern number
 6.Kimmich
 7.Gnabry
 8.Goretzka
+9.Lewandowski
+10.Sane
+11.Coman
 
 Bayern 선수들 백넘버
